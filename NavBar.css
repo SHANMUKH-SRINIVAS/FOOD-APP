@@ -1,0 +1,38 @@
+.Nav{
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 200px;
+}
+.home-favourite{
+   display: flex;
+    justify-content:center;
+    gap: 10px;
+    list-style: none;
+   float: right;
+}
+.FoodRecipe{
+  margin-right: 40px;
+  color: blue;
+  text-decoration: none;
+}
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+input{
+    display: flex;
+    justify-content:center;
+    max-width: 1000px;
+    color: gray;
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px 1px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-color: white;
+    padding-left: 7px;
+  
+}
